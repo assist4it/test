@@ -1,0 +1,9 @@
+public class FirstAppApplication {
+
+	public static void main(String[] args) {
+    System.out.println("************************");
+		System.out.println("Hello...! It's working");
+    System.out.println("*************************");
+	}
+
+}
